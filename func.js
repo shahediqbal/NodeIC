@@ -13,7 +13,7 @@ const x = function newfun(func){func()}
 x(greetings)
 */
 
-const fulkoli= function(a,b){return (a*b)}
+const fulkoli= function(a,b){return (a*b+a+b-a)}
 const bulbuli =function(){console.log("Bulbuli is gone")}
 
 const ipqyee=3.14;
